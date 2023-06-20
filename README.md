@@ -1,4 +1,4 @@
-# Matplotlib-Seaborn-and-Pandas-Python-modules-Exampless
+# Matplotlib-Seaborn-and-Pandas-Python-modules-Examples
 ### Introduction
 Making plots and visualizations is one of the most important tasks in data mining and machine learning.
 It may be a part of the exploratory process; for example, identifying outliers, data transformations, or
